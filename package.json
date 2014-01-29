@@ -1,0 +1,30 @@
+{
+  "name": "learning-karma-tdd-angularjs",
+  "version": "0.0.1",
+  "description": "This repo will store all the code that I write while following tutorials about these topics",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/learning-karma-tdd-angularjs.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "tdd",
+    "angularjs"
+  ],
+  "author": "JoaquinDev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+
+  "dependencies": {}, 
+
+  "devDependencies": {
+    "karma": "*",
+    "grunt": "*",
+    "grunt-karma": "*"
+  }
+}
